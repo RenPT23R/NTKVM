@@ -1,0 +1,24 @@
+# this is just a fudging guess and you can change this shit LOL
+
+DIRS=           \
+    admin       \
+    base        \
+    com         \
+    developer   \
+    drivers     \
+    ds          \
+    enduser     \
+    inetcore    \
+    inetsrv     \
+    loc         \
+    mergedcomponents\
+    multimedia  \
+    net         \
+    printscan   \
+    public      \
+    published   \
+    sdktools    \
+    shell       \
+    termsrv     \
+    tools       \
+    windows     \
