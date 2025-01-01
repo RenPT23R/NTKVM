@@ -1,0 +1,40 @@
+!IF 0
+
+Copyright (c) 1989-2001  Microsoft Corporation
+
+!ENDIF
+# ORIGINNALY COPYRIGHTED BY MICROSOFT CORPORATION 1989-2001
+# burnslib must be built before snapin, dcpromo, netid, dsutils, cys
+# dsadminlib must be built before snapin, display, dscmd, extens
+
+DIRS=            \
+    burnslib     \
+    dsadminlib   \
+    published    \
+    activec      \
+    snapin       \
+    dcpromo      \
+    netid        \
+    dsutils      \
+    cys          \
+    display      \
+    dscmd        \
+    extens       \
+    services     \
+    controls     \
+    consoles     \
+    select       \
+    wmi          \
+    darwin       \
+    sms          \
+    netui        \
+    wizards      \
+    pchealth     \
+    wmiprov      \
+    wmiscmgr     \
+    cmdline      \
+    admt         \
+    dsclientnt4  \
+    dsweb        \
+    hmonitor     \
+    eelvewer     \
