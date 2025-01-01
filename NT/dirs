@@ -21,4 +21,4 @@ DIRS=           \
     shell       \
     termsrv     \
     tools       \
-    windows     \
+    windows

@@ -37,4 +37,4 @@ DIRS=            \
     dsclientnt4  \
     dsweb        \
     hmonitor     \
-    eelvewer     \
+    eelvewer
